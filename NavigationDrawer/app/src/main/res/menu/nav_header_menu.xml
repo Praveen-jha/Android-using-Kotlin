@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miItemOne"
+        android:title="Item 1" />
+    <item
+        android:id="@+id/miItemTwo"
+        android:title="Item 2" />
+    <item
+        android:id="@+id/miItemThree"
+        android:title="Item 3" />
+</menu>
